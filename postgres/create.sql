@@ -1,0 +1,13 @@
+\i bookstore_scripts/01_postgres_create.sql
+\i bookstore_scripts/02_postgres_populate_author.sql
+\i bookstore_scripts/03_postgres_populate_publisher.sql
+\i bookstore_scripts/04_postgres_populate_lookups.sql
+\i bookstore_scripts/05_postgres_populate_book.sql
+\i bookstore_scripts/06_postgres_populate_bookauthor.sql
+\i bookstore_scripts/07_postgres_populate_country.sql
+\i bookstore_scripts/08_postgres_populate_address.sql
+\i bookstore_scripts/09_postgres_populate_customer.sql
+\i bookstore_scripts/10_postgres_populate_others.sql
+\i bookstore_scripts/11_postgres_populate_order.sql
+\i bookstore_scripts/12_postgres_populate_orderline.sql
+\i bookstore_scripts/13_postgres_populate_orderhistory.sql
