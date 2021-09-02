@@ -1,3 +1,6 @@
+
+USE books;
+
 INSERT INTO author (author_name, author_id) VALUES
 ('A. Bartlett Giamatti', 1),
 ('A. Elizabeth Delany', 2),

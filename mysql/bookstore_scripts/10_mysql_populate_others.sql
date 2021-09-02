@@ -1,4 +1,5 @@
 
+USE books;
 
 /* Insert all 2000 customers */
 INSERT INTO customer_address (customer_id, address_id, status_id)

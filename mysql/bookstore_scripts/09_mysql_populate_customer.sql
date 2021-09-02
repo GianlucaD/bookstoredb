@@ -1,3 +1,6 @@
+
+USE books;
+
 INSERT INTO customer (customer_id, first_name, last_name, email) VALUES
 (1, 'Ursola', 'Purdy', 'upurdy0@cdbaby.com'),
 (2, 'Ruthanne', 'Vatini', 'rvatini1@fema.gov'),

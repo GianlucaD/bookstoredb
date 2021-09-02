@@ -1,5 +1,4 @@
 CREATE DATABASE books;
-
 USE books;
 
 CREATE TABLE author (

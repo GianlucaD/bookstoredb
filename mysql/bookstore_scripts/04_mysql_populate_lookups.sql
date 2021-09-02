@@ -1,3 +1,6 @@
+
+USE books;
+
 INSERT INTO book_language (language_code, language_id, language_name) VALUES
 ('eng', 1, 'English'),
 ('en-US', 2, 'United States English'),
