@@ -5,3 +5,12 @@ cd to the right folder depending on the database you use. Then connect to the da
 
 # more information
 more information is here: https://www.databasestar.com/sample-bookstore-database
+
+# DOCKER
+you can create the image with the Dockerfile 
+
+`docker build -t bookstoredb`
+
+to run a container with a open port
+
+`docker run -d --name mysql -p 3306:3306 bookstoredb`
